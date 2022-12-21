@@ -1,0 +1,5 @@
+﻿  shapes.cpp
+C:\Users\JobMM\source\contour_herkenning\contour_herkenning\shapes.cpp(35,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\JobMM\source\contour_herkenning\contour_herkenning\shapes.cpp(40,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\JobMM\source\contour_herkenning\contour_herkenning\shapes.cpp(61,111): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  contour_herkenning.vcxproj -> C:\Users\JobMM\source\contour_herkenning\x64\Debug\contour_herkenning.exe
